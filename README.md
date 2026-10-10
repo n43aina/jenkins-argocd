@@ -20,6 +20,10 @@ Execute the Maven targets to generate the artifacts
 mvn clean package
 ```
 
+
+
+A project by Abhishek Veeramalla
+
 The above maven target stroes the artifacts to the `target` directory. You can either execute the artifact on your local machine
 (or) run it as a Docker container.
 
